@@ -1,5 +1,5 @@
 
-import InstagramPosts from './insta/InstagramPosts'
+import InstagramPosts from './InstagramPosts'
 
 export default function Home() {
   return (
